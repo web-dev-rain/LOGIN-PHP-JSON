@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "username": "Mark",
+        "password": "cf81924a6fb8b96da8151214e931e1f7",
+        "login": "programmer",
+        "email": "a@gmail.com"
+    },
+    {
+        "id": 2,
+        "login": "Larry456",
+        "password": "f1060bb01cef79dcb7b970a2497681da",
+        "email": "kkk@gmail.com",
+        "username": "Laurence"
+    }
+]
